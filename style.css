@@ -1,10 +1,10 @@
 @font-face {
   font-family: "CalSans";
-  src: url("fonts/CalSans-Regular.ttf");
+  src: url("MY-WEB/fonts/CalSans-Regular.ttf");
 }
 @font-face {
   font-family: "DMsans";
-  src: url("fonts/DMSans-VariableFont_opsz\,wght.ttf");
+  src: url("MY-WEB/fonts/DMSans-VariableFont_opsz\,wght.ttf");
 }
 body {
   background-color: white;
